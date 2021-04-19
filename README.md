@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... TypeScript, ReactJS, Express, AWS
 - 💻 I have past experience with ... SQL, JavaScript, Python, Java, C, HTML, CSS
 - 💞️ I’m looking to collaborate on ... Anything with a good cause
-- 📫 How to reach me ... michael.ryan.goad@gmail.com
+- 📫 How to reach me ... michael.ryan.goad@gmail.com | https://www.linkedin.com/in/m-r-g/ 
 
 <!---
 MichaelRyanGoad/MichaelRyanGoad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

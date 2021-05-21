@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichaelRyanGoad
-- 💼 I am currently open to work.
+- 💼 I am currently working at Booz Allen Hamilton as a Senior Consultant, Software Engineer.
 - 🎓 My highest education is ... B.S. in Computer Science from George Mason University
 - 👀 I’m interested in ... Fullstack Web Dev, Software Engineering, Game Dev, AI, Security
 - 🌱 I’m currently learning ... AWS, TypeScript, React.js, Express.js, Three.js
